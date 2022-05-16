@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\Me\\Computer science\\04-Data Analysis\\Courses\\03- Udacity Data Analysis Professional\\02- Introduction to data analysis\\Lesson6- Investigate a Dataset project\\Project TMDB_Movie",
+  "password": false,
+  "pid": 5680,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "92f2a27bb9719b0ad016081191705d772e23eb6fd31b216c",
+  "url": "http://localhost:8889/"
+}
