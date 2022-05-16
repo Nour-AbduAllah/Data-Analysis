@@ -1,6 +1,6 @@
 This is a sql query file to explore covid data on Microsoft SqlServer.
 
-Covid DB downladed from
+Covid DB downloaded from
 	https://ourworldindata.org/covid-deaths
 
 Features used:
